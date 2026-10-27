@@ -1,0 +1,393 @@
+{
+  "accessibility": {
+    "skip": "Saltar al contenido"
+  },
+  "brand": {
+    "name": "FruitLogix"
+  },
+  "header": {
+    "brandLabel": "FruitLogix — inicio",
+    "navigationLabel": "Navegación principal",
+    "languageLabel": "Seleccionar idioma",
+    "download": "Descargar app",
+    "menuOpen": "Abrir menú",
+    "menuClose": "Cerrar menú"
+  },
+  "nav": {
+    "home": "Inicio",
+    "solution": "Solución",
+    "segments": "Segmentos",
+    "team": "Equipo",
+    "contact": "Contacto",
+    "features": "Funciones",
+    "fieldTech": "Campo"
+  },
+  "language": {
+    "esShort": "ES",
+    "enShort": "EN"
+  },
+  "locale": {
+    "fallback": "No se pudo cargar el idioma elegido. Mostramos español."
+  },
+  "hero": {
+    "origin": "Hecho en Perú · Made in Peru",
+    "titleA": "Del campo a tu cliente,",
+    "titleB": "sin perder ni una fruta.",
+    "description": "Conectamos pedidos, despachos y control de calidad para que cada lote llegue con claridad desde el origen hasta el cliente comercial.",
+    "learnMore": "Conocer más",
+    "proof": "Más visibilidad para cuidar cada entrega.",
+    "visualLabel": "Vista ilustrativa del panel móvil FruitLogix",
+    "demo": "Vista demo",
+    "phoneGreeting": "Buenos días, equipo",
+    "phoneHeading": "Resumen de hoy",
+    "phoneOrders": "Pedidos",
+    "phoneOrdersCount": "08",
+    "phoneOrdersStatus": "por despachar",
+    "phoneFleet": "Flota",
+    "phoneFleetCount": "03",
+    "phoneFleetStatus": "en ruta",
+    "phoneRouteTitle": "Entrega en camino",
+    "phoneRouteDetail": "Pedido FL-204 · Lima Norte",
+    "phoneRouteStart": "Despachado",
+    "phoneRouteEnd": "En ruta",
+    "phoneTempTitle": "Cadena de frío",
+    "phoneTempDetail": "Sensor conectado",
+    "phoneTempValue": "4°C",
+    "floatLotTitle": "Lote validado",
+    "floatLotDetail": "Control de calidad",
+    "floatTempTitle": "Temperatura",
+    "floatTempDetail": "Registro de sensor",
+    "floatTempValue": "4°C",
+    "floatRouteTitle": "Pedido en ruta",
+    "floatRouteDetail": "Seguimiento activo",
+    "scrollHint": "Una cadena más clara empieza aquí",
+    "scrollLabel": "Continuar a las métricas"
+  },
+  "stores": {
+    "getIt": "Consíguela en",
+    "google": "Google Play",
+    "apple": "App Store",
+    "downloadOn": "Descárgala en",
+    "googleLabel": "FruitLogix en Google Play",
+    "appleLabel": "FruitLogix en App Store"
+  },
+  "metrics": {
+    "ariaLabel": "Alcance de FruitLogix",
+    "eyebrow": "Una cadena conectada",
+    "title": "La información, donde hace falta.",
+    "items": {
+      "platform": {
+        "value": "1",
+        "suffix": " plataforma",
+        "label": "para centralizar pedidos"
+      },
+      "stages": {
+        "value": "4",
+        "suffix": " etapas",
+        "label": "del pedido a la recepción"
+      },
+      "variables": {
+        "value": "2",
+        "suffix": " variables",
+        "label": "temperatura y humedad en la visión IoT"
+      },
+      "roles": {
+        "value": "3",
+        "suffix": " roles",
+        "label": "productor, distribuidor y cliente"
+      }
+    }
+  },
+  "solution": {
+    "eyebrow": "La diferencia FruitLogix",
+    "title": "¿De qué trata FruitLogix?",
+    "intro": "Una forma más ordenada de mover fruta: desde el primer pedido hasta la validación de calidad al recibirlo.",
+    "beforeEyebrow": "Así se trabaja hoy",
+    "beforeTitle": "Información dispersa",
+    "before1": "Pedidos repartidos entre cuadernos, Excel y WhatsApp",
+    "before2": "Despachos con errores y poca visibilidad",
+    "before3": "Cadena de frío sin monitoreo coordinado",
+    "before4": "Lotes rechazados sin trazabilidad clara",
+    "afterEyebrow": "Con FruitLogix",
+    "afterTitle": "Cada etapa, conectada",
+    "after1": "Pedidos centralizados en una sola plataforma",
+    "after2": "Asignación correcta para cada despacho",
+    "after3": "Control de calidad en cada etapa",
+    "after4": "Trazabilidad desde el origen hasta el cliente",
+    "journeyEyebrow": "Del origen a la recepción",
+    "step1": "Pedido",
+    "step2": "Cosecha y clasificación",
+    "step3": "Transporte en ruta",
+    "step4": "Recepción con validación de calidad",
+    "stepNumber1": "01",
+    "stepNumber2": "02",
+    "stepNumber3": "03",
+    "stepNumber4": "04",
+    "journeyNumber": "01",
+    "badge": "Del campo a tu cliente",
+    "liveChip": "Trazabilidad en tiempo real",
+    "groupPhotoAlt": "Cosecha de cítricos en huerto y carga coordinada",
+    "clientPhotoAlt": "Entrega directa de frutas frescas a cliente comercial",
+    "journeyTruckAlt": "Transporte refrigerado",
+    "step2Alt": "Cosechadora de arándanos en invernadero",
+    "journeyClientAlt": "Recepción por cliente comercial"
+  },
+  "features": {
+    "eyebrow": "Todo en un mismo flujo",
+    "title": "Herramientas para mover mejor cada pedido.",
+    "intro": "La operación diaria y el control de calidad, conectados en un solo espacio.",
+    "dashboard": {
+      "kicker": "Visibilidad operativa",
+      "title": "Dashboard en tiempo real",
+      "body": "Una lectura clara de pedidos, entregas y alertas para tomar decisiones con más contexto."
+    },
+    "orders": {
+      "title": "Gestión de pedidos",
+      "body": "Centraliza solicitudes, estados y detalles de entrega en una fuente compartida."
+    },
+    "fleet": {
+      "title": "Control de flota",
+      "body": "Organiza despachos y consulta el estado de los vehículos en ruta."
+    },
+    "billing": {
+      "title": "Facturación",
+      "body": "Mantén la información de facturación asociada a cada operación."
+    },
+    "drivers": {
+      "title": "Conductores y vehículos",
+      "body": "Administra los recursos de transporte y sus datos operativos."
+    },
+    "producers": {
+      "title": "Red de productores",
+      "body": "Conecta oferta agrícola, cargas disponibles y stock reportado."
+    },
+    "quality": {
+      "kicker": "Calidad con evidencia",
+      "title": "Control de calidad",
+      "body": "Registra inspecciones en campo y valida lotes mediante escaneo antes del despacho.",
+      "stamp": "Lote revisado",
+      "boxChipLot": "Lote FL-204 ✓",
+      "boxChipGrade": "Calidad A",
+      "boxesAlt": "Pila de cajas de cartón FruitLogix con control de calidad"
+    },
+    "iot": {
+      "title": "Sensores y alertas IoT",
+      "body": "La visión de FruitLogix contempla sensores de temperatura y humedad durante el transporte."
+    }
+  },
+  "segments": {
+    "eyebrow": "Una cadena, tres perspectivas",
+    "title": "Una herramienta útil en cada eslabón.",
+    "intro": "Cada actor ve lo que necesita para coordinar mejor su parte de la cadena.",
+    "commercial": {
+      "kicker": "Retail · supermercados · restaurantes",
+      "title": "Clientes comerciales",
+      "body": "Más visibilidad de pedidos y recepción para cuidar rentabilidad, inocuidad y continuidad del abastecimiento.",
+      "benefit1": "Catálogo y seguimiento de pedidos",
+      "benefit2": "Menos mermas, devoluciones y sorpresas",
+      "benefit3": "Registro de incidencias al recibir",
+      "index": "01",
+      "photoAlt": "Góndolas de frutas frescas en supermercado"
+    },
+    "producer": {
+      "kicker": "Productores y asociaciones regionales",
+      "title": "Productores agrícolas",
+      "body": "Una vía para ordenar la oferta, acercarse a mercados formales y conocer la calidad antes del despacho.",
+      "benefit1": "Registro de cargas y stock disponible",
+      "benefit2": "Retroalimentación objetiva de calidad",
+      "benefit3": "Más claridad antes de enviar un lote",
+      "index": "02",
+      "photoAlt": "Productor agrícola recolectando fruta en campo"
+    },
+    "distributor": {
+      "kicker": "Almacén · coordinación · supervisión",
+      "title": "Distribuidores de frutas",
+      "body": "Una operación más coordinada para asignar rutas, reducir errores y cumplir los tiempos de entrega.",
+      "benefit1": "Dashboards para supervisar despachos",
+      "benefit2": "Asignación clara de rutas y pedidos",
+      "benefit3": "Seguimiento del cumplimiento de plazos",
+      "index": "03",
+      "photoAlt": "Distribución logística de pedidos de fruta"
+    }
+  },
+  "plans": {
+    "eyebrow": "Empieza a tu ritmo",
+    "title": "Una opción para cada etapa.",
+    "intro": "Explora la propuesta de FruitLogix. Los detalles y disponibilidad de los planes se anunciarán próximamente.",
+    "note": "La suscripción Miembro Pro se gestiona dentro de la app.",
+    "comingSoon": "Próximamente",
+    "recommended": "Recomendado",
+    "learnMore": "Conocer más",
+    "proCta": "Avísenme cuando esté disponible",
+    "free": {
+      "kicker": "Para conocer la plataforma",
+      "title": "Gratuito",
+      "item1": "Acceso a las funciones esenciales",
+      "item2": "Organización de la información operativa",
+      "item3": "Visibilidad para tu rol en la cadena"
+    },
+    "pro": {
+      "kicker": "Para una gestión ampliada",
+      "title": "Profesional",
+      "item1": "Herramientas ampliadas para el equipo",
+      "item2": "Más opciones de seguimiento y control",
+      "item3": "Una operación con más contexto",
+      "member": "(Miembro Pro)"
+    }
+  },
+  "iot": {
+    "eyebrow": "Lo que viene",
+    "title": "Cuidar el viaje también es cuidar la fruta.",
+    "body": "RebooTech proyecta integrar sensores de temperatura y humedad en el transporte para ayudar a mantener condiciones adecuadas durante cada traslado y avanzar hacia una logística alimentaria más trazable.",
+    "temperature": "Temperatura",
+    "humidity": "Humedad",
+    "alerts": "Alertas conectadas",
+    "illustrationLabel": "Ilustración de un furgón con sensores de temperatura y humedad",
+    "temperatureValue": "4°C",
+    "humidityValue": "HR",
+    "truckAlt": "Furgón con monitoreo IoT de temperatura y humedad en ruta",
+    "gaugeTempLabel": "Temperatura",
+    "gaugeHumidityLabel": "Humedad relativa",
+    "statusActive": "Cadena de frío activa",
+    "truckCaption": "Esquema ilustrativo de un camión refrigerado"
+  },
+  "team": {
+    "eyebrow": "RebooTech · UPC",
+    "title": "El equipo detrás de FruitLogix.",
+    "intro": "Un proyecto universitario que convierte retos reales de logística en soluciones de software para la cadena alimentaria.",
+    "credential": "UPC · Aplicaciones para Dispositivos Móviles · 2026-20",
+    "degree": "Ingeniería de Software · UPC",
+    "github": "Conoce el proyecto en GitHub",
+    "members": {
+      "renzo": {
+        "initials": "RB",
+        "name": "Renzo Alejandro Bojórquez Bustinza",
+        "role": "Team Lead · Landing, UX e Infraestructura & IoT",
+        "focus": "Lidera la experiencia web y la infraestructura conectada."
+      },
+      "esteban": {
+        "initials": "EC",
+        "name": "Esteban Eduardo Chavez Bardales",
+        "role": "Backend · Fleet Management y Logística & Monitoreo",
+        "focus": "Construye servicios para coordinar flota y operación logística."
+      },
+      "sebastian": {
+        "initials": "SC",
+        "name": "Sebastian Josue Cochachi Chagua",
+        "role": "Frontend & Arquitectura · Payment Management",
+        "focus": "Desarrolla interfaces y define la arquitectura frontend."
+      },
+      "cesar": {
+        "initials": "CM",
+        "name": "Cesar Fernando Marin Cueva",
+        "role": "UX/UI & Documentación · Order Management",
+        "focus": "Da forma a los flujos de pedidos y documenta el producto."
+      },
+      "camila": {
+        "initials": "CO",
+        "name": "Camila Alizeé Otiniano Rosales",
+        "role": "Quality Control · Profiles Management y Gestión de proyecto",
+        "focus": "Cuida la calidad del producto y la coordinación del equipo."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Hablemos de tu cadena",
+    "title": "Cada fruta tiene un recorrido. Cuéntanos el tuyo.",
+    "intro": "Si produces, distribuyes o recibes fruta, queremos conocer los retos que podríamos ayudar a resolver.",
+    "emailLabel": "Escríbenos",
+    "locationLabel": "Desde",
+    "location": "Lima, Perú",
+    "socialLabel": "Redes sociales",
+    "socialTitle": "Síguenos",
+    "instagram": "Instagram",
+    "instagramShort": "IG",
+    "linkedin": "LinkedIn",
+    "linkedinShort": "in",
+    "appPrompt": "Explora FruitLogix en tu móvil",
+    "github": "GitHub",
+    "githubShort": "GH",
+    "mailtoSubject": "Consulta desde FruitLogix",
+    "email": "contacto@rebootech.pe"
+  },
+  "form": {
+    "eyebrow": "Contacto directo",
+    "title": "Cuéntanos en qué podemos ayudarte.",
+    "nameLabel": "Nombre",
+    "namePlaceholder": "Tu nombre",
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "nombre@empresa.com",
+    "interestLabel": "Me interesa como",
+    "interestPlaceholder": "Selecciona una opción",
+    "commercial": "Cliente comercial",
+    "producer": "Productor",
+    "distributor": "Distribuidor",
+    "other": "Otro",
+    "messageLabel": "Mensaje",
+    "messagePlaceholder": "Cuéntanos brevemente qué necesitas…",
+    "submit": "Enviar mensaje",
+    "privacy": "Al enviar, tu aplicación de correo abrirá un mensaje dirigido a RebooTech."
+  },
+  "validation": {
+    "nameRequired": "Escribe tu nombre para que sepamos cómo dirigirnos a ti.",
+    "nameTooShort": "El nombre debe tener al menos 2 caracteres.",
+    "emailRequired": "Escribe tu correo para que podamos responderte.",
+    "emailInvalid": "Revisa el formato del correo, por ejemplo nombre@empresa.com.",
+    "interestRequired": "Selecciona el tipo de interesado que mejor te describe.",
+    "messageRequired": "Agrega un mensaje para poder ayudarte.",
+    "messageTooShort": "Cuéntanos un poco más: el mensaje debe tener al menos 15 caracteres.",
+    "sending": "Enviando tu mensaje…",
+    "sent": "Gracias. Recibimos tu mensaje.",
+    "mailto": "Se preparó un correo para RebooTech. Si no se abrió tu aplicación de correo, escríbenos directamente.",
+    "networkError": "No se pudo enviar el formulario. Revisa tu conexión o escríbenos por correo.",
+    "endpointError": "El servicio de contacto no respondió. Inténtalo de nuevo o escríbenos por correo."
+  },
+  "footer": {
+    "description": "Logística de frutas más clara, desde el campo hasta tu cliente.",
+    "navLabel": "Enlaces de pie de página",
+    "backToTop": "Volver arriba",
+    "copyright": "© 2026 RebooTech · UPC",
+    "madeIn": "Hecho en Perú, con propósito."
+  },
+  "organization": {
+    "name": "RebooTech",
+    "description": "Equipo universitario de Ingeniería de Software de la UPC creador de FruitLogix, una plataforma para digitalizar la logística de distribución de frutas.",
+    "place": "Lima, Perú",
+    "institution": "Universidad Peruana de Ciencias Aplicadas (UPC)"
+  },
+  "seo": {
+    "title": "FruitLogix | Logística de frutas en Perú",
+    "description": "FruitLogix conecta productores, distribuidores y clientes comerciales para coordinar pedidos, calidad y trazabilidad de frutas en el Perú.",
+    "ogType": "website",
+    "ogSiteName": "FruitLogix",
+    "ogTitle": "FruitLogix | Logística de frutas más conectada",
+    "ogDescription": "Pedidos, calidad y trazabilidad en una plataforma pensada para la cadena de frutas.",
+    "ogLocale": "es_PE",
+    "ogImage": "https://TU-DOMINIO/assets/fruitlogix-social.png",
+    "ogImageAlt": "FruitLogix — Del campo a tu cliente, sin perder ni una fruta.",
+    "ogLocaleAlt": "en_US"
+  },
+  "marquee": {
+    "item1": "Trazabilidad en tiempo real",
+    "item2": "Cadena de frío activa",
+    "item3": "Gestión centralizada de pedidos",
+    "item4": "Control de calidad con evidencia",
+    "item5": "Sensores y alertas IoT",
+    "item6": "Logística inteligente de frutas"
+  },
+  "fieldTech": {
+    "eyebrow": "Tecnología en origen",
+    "title": "Tecnología que llega al campo",
+    "intro": "Conectamos al agricultor directamente con la demanda comercial, reduciendo intermediarios y garantizando precios justos con evidencia técnica de calidad.",
+    "item1Title": "Registro de cargas y stock disponible",
+    "item1Desc": "Control inmediato de cosechas y volumen disponible sin papeleo desde cualquier dispositivo móvil.",
+    "item2Title": "Retroalimentación objetiva de calidad",
+    "item2Desc": "Inspección técnica validada antes del despacho para evitar rechazos y mermas en destino.",
+    "item3Title": "Acceso directo a mercados formales",
+    "item3Desc": "Vínculo confiable con supermercados y cadenas de retail que valoran la inocuidad y la trazabilidad.",
+    "cta": "Digitaliza tus cosechas hoy",
+    "chip1": "Calidad objetiva",
+    "chip2": "Carga registrada",
+    "producerPhotoAlt": "Balde con arándanos cosechados a mano en el campo"
+  }
+}
