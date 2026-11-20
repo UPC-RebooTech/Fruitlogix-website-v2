@@ -343,6 +343,8 @@
     "endpointError": "The contact service didn't respond. Please try again or email us directly."
   },
   "footer": {
+    "terms": "Terms and Conditions",
+    "privacy": "Privacy Policy",
     "description": "Clearer fruit logistics, from the field to your customer.",
     "navLabel": "Footer navigation",
     "backToTop": "Back to top",
