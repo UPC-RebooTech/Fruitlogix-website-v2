@@ -343,6 +343,8 @@
     "endpointError": "El servicio de contacto no respondió. Inténtalo de nuevo o escríbenos por correo."
   },
   "footer": {
+    "terms": "Términos y Condiciones",
+    "privacy": "Política de Privacidad",
     "description": "Logística de frutas más clara, desde el campo hasta tu cliente.",
     "navLabel": "Enlaces de pie de página",
     "backToTop": "Volver arriba",
